@@ -1,0 +1,4 @@
+github.com/mohanson/doa v0.0.0-20210110060319-44d367da3ecb h1:u9np6Hq53dU6qjoelLApC7/rQW5E6ii28jX5I1mu+Zk=
+github.com/mohanson/doa v0.0.0-20210110060319-44d367da3ecb/go.mod h1:HKQ6V1vOcd+H4giXI8HFM08xPJLJHUhhSGlZAMz/T7k=
+github.com/mohanson/lru v0.0.0-20201114092131-d8316afe1dbb h1:uW0iG7+qYmKSasYQX5yQCoaOXtmfk3mqwlspSX6qREg=
+github.com/mohanson/lru v0.0.0-20201114092131-d8316afe1dbb/go.mod h1:6MuIsKg4QTtlY8yEF7CBHj8/unBW9Kwa1JqF+bNfhhk=
