@@ -18,6 +18,10 @@ var (
 
 func hand(w http.ResponseWriter, r *http.Request) {
 	k := r.URL.EscapedPath()
+	if k == "/" {
+		w.WriteHeader(http.StatusBadRequest)
+		return
+	}
 	switch r.Method {
 	case http.MethodGet:
 		b, err := client.Get(k)
